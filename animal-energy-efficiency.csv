@@ -1,0 +1,33 @@
+ID,Description,x,y
+0,Fruit Fly,2.26E-06,14.94
+1,Blowfly,3.50E-05,14.94
+2,Bee,1.07E-04,14.64
+3,Locust,2.17E-03,5.03
+4,Hummingbird,2.92E-03,4.24
+5,Mouse,2.01E-02,72.27
+6,Mouse,2.06E-02,89.14
+7,Mouse,2.30E-02,35.28
+8,Mouse,2.78E-02,42.93
+9,Mouse,2.93E-02,49.14
+10,Budgerigar,3.65E-02,2.85
+11,Salmon,4.92E-02,0.4
+12,Lemming,6.63E-02,40.94
+13,Rat,2.87E-01,14.84
+14,Gull,3.11E-01,1.43
+15,Pigeon,4.20E-01,0.93
+16,Rabbit,2.45E+00,4.7
+17,Dog,1.03E+01,1.37
+18,Sheep,3.41E+01,1.03
+19,Man,6.54E+01,0.73
+20,Man on Bicycle,9.56E+01,0.14
+21,Horse,2.91E+02,0.61
+22,Horse,4.37E+02,0.7
+23,Horse,5.58E+02,0.57
+24,Cow,5.89E+02,0.81
+25,Horse,7.32E+02,0.5
+26,Light Plane,9.60E+02,1.17
+27,Automobile,1.13E+03,0.73
+28,Automobile,2.23E+03,0.83
+29,Helicopter,3.53E+03,3.56
+30,Jet Fighter,1.90E+04,1.44
+31,Jet Transport,1.27E+05,0.57
